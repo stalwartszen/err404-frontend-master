@@ -1,6 +1,16 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Do "npm i" while after clone 
+
+## Main Routes
+
+Patient Publish Record "http://localhost:3000/patient/publish"
+Patient View Record "http://localhost:3000/patient/records"
+
+Doctor View Record "http://localhost:3000/doctor/reports"
+Doctor 
+ 
 
 ## Available Scripts
 
